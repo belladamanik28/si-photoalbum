@@ -1,0 +1,17 @@
+{
+    "name": "acer/si-album",
+    "description": "Sistem Informasi Album Photo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Acer\\SiAlbum\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bela",
+            "email": "belasafitri.dmk@gmail.com"
+        }
+    ],
+    "require": {}
+}

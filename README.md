@@ -1,2 +1,2 @@
-# si-photoalbum
+# si-albumphoto
 Sistem Informasi Album Photo
